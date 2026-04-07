@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Sentadillas", "musculo": "Pierna", "series": "4x12" },
+  { "id": 2, "nombre": "Press de Banca", "musculo": "Pecho", "series": "3x10" },
+  { "id": 3, "nombre": "Remo con barra", "musculo": "Espalda", "series": "4x8" }
+]

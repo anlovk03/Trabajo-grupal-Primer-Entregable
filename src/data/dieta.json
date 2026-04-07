@@ -1,0 +1,5 @@
+[
+  { "id": 1, "comida": "Desayuno", "descripcion": "Avena con banano y mantequilla de maní", "calorias": 450 },
+  { "id": 2, "comida": "Almuerzo", "descripcion": "Pechuga de pollo, arroz integral y ensalada", "calorias": 650 },
+  { "id": 3, "comida": "Cena", "descripcion": "Omelette de claras con espinaca y tostadas", "calorias": 380 }
+]
