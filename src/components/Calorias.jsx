@@ -13,7 +13,7 @@ export default function Calorias() {
 
   return (
     <div style={{ padding: '15px', border: '2px solid #FF9800', borderRadius: '10px', marginTop: '20px' }}>
-      <h3 style={{ color: '#FF9800' }}>🔥 Contador de Calorías (RF007)</h3>
+      <h3 style={{ color: '#FF9800' }}>🔥 Contador de Calorías </h3>
       <p>Total hoy: <strong>{total} kcal</strong></p>
       <input 
         type="text" placeholder="¿Qué comiste?" value={comida}

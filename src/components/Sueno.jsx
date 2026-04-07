@@ -5,7 +5,7 @@ export default function Sueno() {
 
   return (
     <div style={{ padding: '15px', border: '2px solid #4CAF50', borderRadius: '10px', marginTop: '20px' }}>
-      <h3>🛌 Registro de Sueño (RF011)</h3>
+      <h3>🛌 Registro de Sueño </h3>
       <p>Ingresa las horas que descansaste:</p>
       <input 
         type="number" 

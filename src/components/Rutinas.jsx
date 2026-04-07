@@ -10,7 +10,7 @@ export default function Rutinas() {
 
   return (
     <div style={{ padding: '15px', border: '2px solid #2196F3', borderRadius: '10px', marginTop: '20px', backgroundColor: '#fdfdfd' }}>
-      <h3 style={{ color: '#2196F3' }}>🏋️ Buscador de Rutinas (RF005)</h3>
+      <h3 style={{ color: '#2196F3' }}>🏋️ Buscador de Rutinas </h3>
       
       <input 
         type="text" 
