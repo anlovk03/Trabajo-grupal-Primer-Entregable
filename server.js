@@ -10,7 +10,14 @@ app.use(express.json());
 
 // Rutas
 const activityRoutes = require('./src/routes/activityRoutes');
+const ejercicioRoutes = require('./src/routes/ejercicioRoutes');
+const dietaRoutes = require('./src/routes/dietaRoutes');
+const usuarioRoutes = require('./src/routes/usuarioRoutes');
+
 app.use('/api/activities', activityRoutes);
+app.use('/api/ejercicios', ejercicioRoutes);
+app.use('/api/dietas', dietaRoutes);
+app.use('/api/usuarios', usuarioRoutes);
 
 // Ruta de diagnóstico
 app.get('/', (req, res) => {
